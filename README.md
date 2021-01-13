@@ -10,9 +10,9 @@ Prerequisites:
 
 Steps:
 
-1. Open the appsettings.Development.json file and provide the following parameters:
-    a. TenantId
-    b. WebAppClientId
+1. Open the appsettings.Development.json file and provide the following parameters:<br />
+    a. TenantId<br />
+    b. WebAppClientId<br />
     c. WebAppClientSecret
 
 2. Run the project
