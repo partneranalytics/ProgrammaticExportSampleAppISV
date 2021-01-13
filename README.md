@@ -13,14 +13,14 @@ This is a sample app which shocases how to integrate with the Microsoft CMP part
 - This is a very simple .NET core app which exposes a controller and a simple UI to call the controllers.
 - You can check the controller code to see how **Programmatic Access APIs** need to be called.
 - As of now, you can do the following in the sample app:
--- Schedule reports
--- View system queries and user defined queries
--- Create custom queries
--- Create custom queries
+    1. Schedule reports
+    2. View system queries and user defined queries
+    3. Create custom queries
+    4. Create custom queries
 
 ## Steps to run the app locally:
 - Open the appsettings.Development.json file and provide the following parameters:
--- TenantId
--- WebAppClientId
--- WebAppClientSecret
+    1. TenantId
+    2. WebAppClientId
+    3. WebAppClientSecret
 - Running the project will start the server and launch the UI page.
