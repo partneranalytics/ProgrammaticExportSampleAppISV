@@ -23,4 +23,8 @@ This is a sample app which shocases how to integrate with the Microsoft CMP part
     1. TenantId
     2. WebAppClientId
     3. WebAppClientSecret
-- Running the project will start the server and launch the UI page.
+- Run the project from Visual Studio or go to the root directory and run this command "dotnet run".
+- Open the URL https://localhost:44365/ProgrammaticExportSampleAppISV/sample
+- To start exploring the datasets, click on "Get Available Datasets"
+- To frame your own query, select the columns, define conditions and ordering and then click on generate query to see the full report query.
+- Cliking on create query button will create the query
